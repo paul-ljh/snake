@@ -1,3 +1,5 @@
+A classic 2D video game written in Java, where the objective is to control a line as it grows in length while preventing it from hitting the bounds or itself
+
 How to start the game?
 - type: make; make run
 
